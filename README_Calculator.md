@@ -1,3 +1,7 @@
+#Basic_Calculator
+
+#Task-2
+
 Certainly! Let's go through the code step by step to provide a detailed explanation:
 
 1. We begin by importing the `math` module to access the `sqrt` function for calculating square roots.
